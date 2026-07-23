@@ -1,0 +1,96 @@
+Artificial Intelligence (AI)
+
+What is AI?
+
+Artificial Intelligence (AI) is the branch of computer science that
+focuses on building systems capable of performing tasks that normally
+require human intelligence. These tasks include learning, reasoning,
+problem-solving, perception, understanding language, and
+decision-making.
+
+Brief History
+
+-   1950: Alan Turing proposed the Turing Test.
+-   1956: The term “Artificial Intelligence” was introduced at the
+    Dartmouth Conference.
+-   1980s: Expert systems became popular.
+-   2012: Deep learning achieved major breakthroughs in image
+    recognition.
+-   2017: The Transformer architecture revolutionized Natural Language
+    Processing.
+-   Today: Generative AI models can create text, images, audio, video,
+    and code.
+
+Types of AI
+
+1.  Narrow AI (Weak AI)
+2.  General AI (AGI)
+3.  Super AI (Theoretical)
+
+Major Fields of AI
+
+-   Machine Learning (ML)
+-   Deep Learning (DL)
+-   Natural Language Processing (NLP)
+-   Computer Vision
+-   Robotics
+-   Reinforcement Learning
+-   Generative AI
+
+AI Workflow
+
+1.  Collect Data
+2.  Preprocess Data
+3.  Train a Model
+4.  Evaluate Performance
+5.  Deploy the Model
+6.  Monitor and Improve
+
+Applications
+
+-   Healthcare
+-   Finance
+-   Education
+-   Manufacturing
+-   Transportation
+-   Cybersecurity
+-   Agriculture
+-   Entertainment
+
+Advantages
+
+-   Automates repetitive tasks
+-   Improves accuracy
+-   Works continuously
+-   Analyzes large datasets
+-   Supports better decision-making
+
+Challenges
+
+-   Bias in data
+-   Privacy concerns
+-   High computational cost
+-   Explainability
+-   Ethical concerns
+
+Future of AI
+
+AI is expected to become more capable, personalized, and integrated into
+daily life. Areas such as autonomous systems, AI agents, scientific
+discovery, and human-AI collaboration are expected to grow rapidly.
+
+Key Terms
+
+-   Algorithm
+-   Dataset
+-   Model
+-   Training
+-   Inference
+-   Neural Network
+-   Transformer
+-   Token
+-   Embedding
+-   Fine-tuning
+-   Prompt Engineering
+-   RAG (Retrieval-Augmented Generation)
+-   AI Agent
